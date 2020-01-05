@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /bin/bash
 DATE="$(date)"
 echo "Content-type: text/html"
 echo ""
