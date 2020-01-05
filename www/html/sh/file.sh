@@ -10,5 +10,8 @@ ls
 
 git branch
 
+git diff
+
 git pull
+
 echo "</pre>" 
